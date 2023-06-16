@@ -1,2 +1,2 @@
 # my-first-repo
-Meu primeiro repositório no GitHub!
+Bem vindo ao meu primeiro repositório no GitHub!
